@@ -1,5 +1,6 @@
-# flutter
-Some helpful script to bypass SSL Pinning of Flutter
+# Find ssl check function
+
+Search **ssl_server** or **ssl_client** in `Strings` of `IDA Pro`
 
 # Bypass ssl pinning by pattern
 ```javascript
