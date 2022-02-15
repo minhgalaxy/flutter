@@ -1,6 +1,6 @@
 # Find ssl check function
 
-Search **ssl_server** or **ssl_client** in `Strings` of `IDA Pro`
+Search **ssl_server** or **ssl_client** in `Strings` of `IDA Pro`. Press `X` to find referrence function.
 
 # Bypass ssl pinning by pattern
 ```javascript
